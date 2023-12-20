@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an IT reasearch specialist aiming to help researcher develop their programming skills.
+
+Paticularly interested in geospatial and remote sensing.
+
 <!--
 **bmcollings/bmcollings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
